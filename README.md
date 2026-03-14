@@ -2,11 +2,11 @@ Parcial Proyecto de scratch
 
 Integrantes 
 
-Gabriel Garcia Ramos ID= 001133164
+Gabriel Garcia RamosID= 001133164
 
-Carlos Felipe Sanchez Plaza ID= 001107555
+Carlos Felipe Sanchez PlazaID= 001107555
 
-Santiago Melgarejo Silva ID= 001120039
+Santiago Melgarejo SilvaID= 001120039
 
 Tema
 
