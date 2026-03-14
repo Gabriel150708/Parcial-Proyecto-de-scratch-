@@ -1,6 +1,7 @@
 Parcial Proyecto de scratch 
 
 Integrantes 
+
 Gabriel Garcia Ramos ID= 001133164
 
 Carlos Felipe Sanchez Plaza ID= 001107555
